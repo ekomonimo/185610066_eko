@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">pertemuan5</string>
+    <string name="tempat">Singapure</string>
+    <string name="camera">Camera</string>
+    <string name="setting">Setting</string>
+    <string name="deskripsi">
+        Singapura adalah negara tetangga kita yang berlokasi paling dekat, dan paling sering dikunjungi warga negara Indonesia karena selain dekat, biayanya juga cukup terjangkau. Walaupun ukuran negara Singapura termasuk kecil bila dibandingkan dengan Indonesia, Singapura memiliki cukup banyak tempat wisata yang menarik. Apa saja tempat wisata di Singapura yang paling menarik. /n
+        Wisata - wisata di singapura antara lain : \n
+        1. Merlion Park \n
+        2. Universal Studio \n
+        3. Orchard Road \n
+        4. Sentosa Island \n
+        5. Bugis Street \n
+        6. Chinatown \n
+        7. Little India \n
+        8. Arab Street \n
+        9. Haw Par Villa
+    </string>
+</resources>
